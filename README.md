@@ -22,9 +22,9 @@ Workshop participants will learn ...
 
 ## Is this course for me?
 
-You should be comfortable with routine R programming tasks (such as writing functions, indexing vectors and lists).
+You should be comfortable with routine R programming tasks (such as indexing vectors and lists).
 
-Your (lack of) previous experience with X is not an issue. If you have experience, you'll see things in a new way. If you don't, we'll get you started on the right footing.
+Your (lack of) previous experience with geospatial analyses in R is not an issue. If you have experience, you'll see things in a new way. If you don't, we'll get you started on the right footing.
 
 ## Prework
 
