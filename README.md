@@ -1,18 +1,17 @@
 
-Working with Geospatial Data
+## Working with Geospatial Data
 
-================
-
-by Joseph Stachelek
+> by Joseph Stachelek
 
 -----
 
 :spiral_calendar: February 27, 2020  
 :alarm_clock:     08:00 - 16:30  
 :hotel:           
-[rstudio.cloud/project/878317](https://rstudio.cloud/project/878317)     
-GitHub repo: [https://github.com/jsta/glatos-spatial_workshop_materials](https://github.com/jsta/glatos-spatial_workshop_materials)  
-birds of a feather [document](https://docs.google.com/document/d/1rYZLCQdmUHdPqfT9VbPgxh8HriQPJBnxJA7UDW75kz4/edit?usp=sharing): <https://bit.ly/36CbZdk>
+:cloud: [rstudio.cloud/project/878317](https://rstudio.cloud/project/878317)     
+:computer: [https://github.com/jsta/glatos-spatial_workshop_materials](https://github.com/jsta/glatos-spatial_workshop_materials)  
+:memo: [collab document](https://docs.google.com/document/d/1rYZLCQdmUHdPqfT9VbPgxh8HriQPJBnxJA7UDW75kz4/edit?usp=sharing): <https://bit.ly/36CbZdk>
+
 -----
 
 ## Overview
