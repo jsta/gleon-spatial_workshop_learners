@@ -7,7 +7,6 @@
 
 :spiral_calendar: February 27, 2020  
 :alarm_clock:     08:00 - 16:30  
-:hotel:           
 :cloud: [rstudio.cloud/project/878317](https://rstudio.cloud/project/878317)     
 :computer: [https://github.com/jsta/glatos-spatial_workshop_materials](https://github.com/jsta/glatos-spatial_workshop_materials)  
 :memo: [collab document](https://docs.google.com/document/d/1rYZLCQdmUHdPqfT9VbPgxh8HriQPJBnxJA7UDW75kz4/edit?usp=sharing): <https://bit.ly/36CbZdk>
@@ -18,7 +17,7 @@
 
 ## Learning objectives
 
-Workshop participants will learn ...
+Workshop participants will learn the basics of working with vector and raster data in `R`.
 
 ## Is this course for me?
 
@@ -29,8 +28,14 @@ Your (lack of) previous experience with geospatial analyses in R is not an issue
 ## Prework
 
 1. Use your own system to install a working environment:
-    - Scroll up on this GitHub page to the green "clone or download" button. Copy the link and use it on your system to create a new project with "New project/Version control system/GitHub".
-    - When your project is created, look at the file `setup.R`. Install any packages there that you don't already have installed. 
+- Download data from: https://github.com/jsta/glatos-spatial_workshop_learners/releases/download/0.0.1/glatos-spatial.zip
+- Install R and Rstudio
+- Install R packages
+```
+install.packages(c("dplyr", "ggplot2", "raster", "rgdal", "rasterVis", "sf", "mapview"))
+# If you encounter errors you may need to install external prerequsite programs:
+# https://datacarpentry.org/geospatial-workshop/setup.html
+```
 
 2. (An alternative to (1) if you can't (or don't want to) use your own RStudio system--e.g. a laptop or an institutional server.) Shortly before the workshop starts, open up a new project in `rstudio.cloud` by following this link: [rstudio.cloud/project/878317](https://rstudio.cloud/project/878317). 
     - You may be prompted to set up an account, which is free. If you already have an account, use that.
@@ -43,15 +48,14 @@ Your (lack of) previous experience with geospatial analyses in R is not an issue
 | :------------ | :-------------------------- |
 | 08:00 - 8:30  | Intoduction and Setup       |
 | 08:30 - 9:00  | Geospatial background       | 
-| 09:00 - 09:30 | *Coffee break?*             |
-| 09:30 - 10:00 | Open and plot vector files  | 
-| 10:00 - 11:00 | Explore vector attributes   |
-| 11:00 - 12:00 | Convert from .csv to vector |
-| 12:30 - 13:30 | *Lunch break*               |
-| 13:30 - 14:30 | Intro to raster data        |
-| 14:30 - 15:00 | *Coffee break?*             |
-| 15:00 - 16:00 | Manipulate raster data      |
-| 16:00 - 16:30 | GLATOS R package demo       |
+| 09:00 - 09:30 | Open and plot vector files  |
+| 09:30 - 10:20 | *Coffee break?*             |
+| 10:20 - 11:20 | Explore vector attributes   |
+| 11:20 - 12:00 | Convert from .csv to vector |
+| 12:00 - 12:55 | *Lunch break*               |
+| 13:00 - 14:30 | Intro to raster data        |
+| 14:30 - 14:50 | *Coffee break?*             |
+| 14:50 - 15:50 | Manipulate raster data      |
 
 ## Instructors
 

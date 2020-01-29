@@ -1,8 +1,9 @@
-# Download data from:
-# https://github.com/jsta/glatos-spatial_workshop_learners/releases
+# 1) Download data from:
+# https://github.com/jsta/glatos-spatial_workshop_learners/releases/download/0.0.1/glatos-spatial.zip
 
-# Install R packages
-# https://datacarpentry.org/geospatial-workshop/setup.html
+# 2) Install R and Rstudio
+
+# 3) Install R packages
 install.packages(c("dplyr", "ggplot2", "raster", "rgdal", "rasterVis", "sf", "mapview"))
 # If you encounter errors you may need to install external prerequsite programs:
 # https://datacarpentry.org/geospatial-workshop/setup.html
