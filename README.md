@@ -31,7 +31,7 @@ Your (lack of) previous experience with geospatial analyses in R is not an issue
 - Download data from: https://github.com/jsta/glatos-spatial_workshop_learners/releases/download/0.0.1/glatos-spatial.zip
 - Install R and Rstudio
 - Install R packages
-```
+```r
 install.packages(c("dplyr", "ggplot2", "raster", "rgdal", "rasterVis", "sf", "mapview"))
 # If you encounter errors you may need to install external prerequsite programs:
 # https://datacarpentry.org/geospatial-workshop/setup.html
