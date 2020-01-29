@@ -28,19 +28,20 @@ Your (lack of) previous experience with geospatial analyses in R is not an issue
 ## Prework
 
 1. Use your own system to install a working environment:
-- Download data from: https://github.com/jsta/glatos-spatial_workshop_learners/releases/download/0.0.1/glatos-spatial.zip
-- Install R and Rstudio
-- Install R packages
+    - Download data from:
+        https://github.com/jsta/glatos-spatial_workshop_learners/releases/download/0.0.1/glatos-spatial.zip
+    - Install R and Rstudio
+    - Install R packages
 ```r
 install.packages(c("dplyr", "ggplot2", "raster", "rgdal", "rasterVis", "sf", "mapview"))
 # If you encounter errors you may need to install external prerequsite programs:
 # https://datacarpentry.org/geospatial-workshop/setup.html
 ```
 
-2. (An alternative to (1) if you can't (or don't want to) use your own RStudio system--e.g. a laptop or an institutional server.) Shortly before the workshop starts, open up a new project in `rstudio.cloud` by following this link: [rstudio.cloud/project/878317](https://rstudio.cloud/project/878317). 
+2. An alternative to (1) if you can't (or don't want to) use your own RStudio system--e.g. a laptop or an institutional server. Shortly before the workshop starts, open up a new project in `rstudio.cloud` by following this link: [rstudio.cloud/project/878317](https://rstudio.cloud/project/878317). 
     - You may be prompted to set up an account, which is free. If you already have an account, use that.
     - Your `rstudio.cloud` project is yours and you can leave it for future reference or delete it after the workshop: your choice.
-    - Packages will be pre-installed on `rstudio.cloud`
+    - Packages will be pre-installed and data will be pre-downloaded on `rstudio.cloud`
 
 ## Schedule
 
