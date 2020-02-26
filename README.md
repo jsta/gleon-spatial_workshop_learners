@@ -9,7 +9,7 @@
 :alarm_clock:     08:00 - 16:30  
 :cloud: [rstudio.cloud/project/878317](https://rstudio.cloud/project/878317)     
 :computer: [https://github.com/jsta/glatos-spatial_workshop_materials](https://github.com/jsta/glatos-spatial_workshop_materials)  
-:memo: [collab document](https://docs.google.com/document/d/1rYZLCQdmUHdPqfT9VbPgxh8HriQPJBnxJA7UDW75kz4/edit?usp=sharing): <https://bit.ly/36CbZdk>
+:memo: [collab document](https://bit.ly/glatos-collab): <https://bit.ly/glatos-collab>
 
 -----
 
