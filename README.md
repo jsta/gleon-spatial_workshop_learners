@@ -1,7 +1,7 @@
 
 ## Working with Geospatial Data
 
-> by Joseph Stachelek
+> by Jem Stachelek
 
 -----
 
@@ -60,9 +60,7 @@ install.packages(c("dplyr", "ggplot2", "raster", "rgdal", "rasterVis", "sf", "ma
 
 ## Instructors
 
-* Joseph Stachelek, `stachel2@msu.edu`
-* Mike Lowe
-* Todd Hayden
+* Jem Stachelek, `stachel2@msu.edu`
 
 -----
 
