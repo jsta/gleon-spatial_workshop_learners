@@ -1,5 +1,5 @@
 # 1) Download data from:
-# https://github.com/jsta/glatos-spatial_workshop_learners/releases/download/0.0.1/glatos-spatial.zip
+# https://github.com/jsta/gleon-spatial_workshop_learners/releases/download/0.0.1/gleon-spatial.zip
 
 # 2) Install R and Rstudio
 
