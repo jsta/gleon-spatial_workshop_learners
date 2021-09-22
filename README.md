@@ -28,7 +28,7 @@ Any lack of previous experience with geospatial analyses in R is not an issue. I
 
 1. Use your own system to install a working environment:
     - Download data from:
-        https://github.com/jsta/gleon-spatial_workshop_learners/releases/download/0.0.2/gleon-spatial.zip
+        https://github.com/jsta/gleon-spatial_workshop_learners/archive/refs/tags/0.0.2.zip
     - Install R and Rstudio
     - Install R packages
 ```r
