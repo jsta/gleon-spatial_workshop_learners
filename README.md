@@ -5,11 +5,11 @@
 
 -----
 
-:spiral_calendar: February 27, 2020  
-:alarm_clock:     08:00 - 16:30  
+:spiral_calendar: September 24, 2021
+:alarm_clock:     13:00 - 17:00  
 :cloud: [rstudio.cloud/project/878317](https://rstudio.cloud/project/878317)     
-:computer: [https://github.com/jsta/glatos-spatial_workshop_materials](https://github.com/jsta/glatos-spatial_workshop_materials)  
-:memo: [collab document](https://bit.ly/glatos-collab): <https://bit.ly/glatos-collab>
+:computer: [https://github.com/jsta/gleon-spatial_workshop_materials](https://github.com/jsta/gleon-spatial_workshop_materials)  
+:memo: [collab document](https://bit.ly/gleon-collab): <https://bit.ly/gleon-collab>
 
 -----
 
@@ -23,13 +23,13 @@ Workshop participants will learn the basics of working with vector and raster da
 
 You should be comfortable with routine R programming tasks (such as indexing vectors and lists).
 
-Your (lack of) previous experience with geospatial analyses in R is not an issue. If you have experience, you'll see things in a new way. If you don't, we'll get you started on the right footing.
+Any lack of previous experience with geospatial analyses in R is not an issue. If you have experience, you'll see things in a new way. If you don't, we'll get you started on the right footing.
 
 ## Prework
 
 1. Use your own system to install a working environment:
     - Download data from:
-        https://github.com/jsta/glatos-spatial_workshop_learners/releases/download/0.0.1/glatos-spatial.zip
+        https://github.com/jsta/gleon-spatial_workshop_learners/releases/download/0.0.1/gleon-spatial.zip
     - Install R and Rstudio
     - Install R packages
 ```r
@@ -45,18 +45,15 @@ install.packages(c("dplyr", "ggplot2", "raster", "rgdal", "rasterVis", "sf", "ma
 
 ## Schedule
 
-| Time          | Topic            | 
+| Time          | Topic                       | 
 | :------------ | :-------------------------- |
-| 08:00 - 8:30  | Intoduction and Setup       |
-| 08:30 - 9:00  | Geospatial background       | 
-| 09:00 - 09:30 | Open and plot vector files  |
-| 09:30 - 10:20 | *Coffee break?*             |
-| 10:20 - 11:20 | Explore vector attributes   |
-| 11:20 - 12:00 | Convert from .csv to vector |
-| 12:00 - 12:55 | *Lunch break*               |
-| 13:00 - 14:30 | Intro to raster data        |
-| 14:30 - 14:50 | *Coffee break?*             |
-| 14:50 - 15:50 | Manipulate raster data      |
+| 13:00 - 13:30 | Intoduction and Setup       |
+| 13:30 - 14:00 | Geospatial background       | 
+| 14:00 - 14:30 | Open and plot vector files  |
+| 14:30 - 14:40 | *Break*                     |
+| 14:40 - 15:40 | Explore vector attributes   |
+| 15:40 - 16:20 | Convert from .csv to vector |
+| 16:20 - 17:00 | Intro to raster data        |
 
 ## Instructors
 
